@@ -39,6 +39,19 @@
     "installId": "a759735f4c50329f3bf56f9512eb759d1556e9a5e6a543b858d0730be64ea1dc"
   },
   "overrides": {
-    "zod": "4.1.12"
-  }
+  "zod": "4.1.12",
+  "@webassemblyjs/floating-point-hex-parser": "1.11.6",
+  "@webassemblyjs/ast": "1.11.6",
+  "@webassemblyjs/helper-numbers": "1.11.6",
+  "@webassemblyjs/helper-api-error": "1.11.6",
+  "@webassemblyjs/helper-buffer": "1.11.6",
+  "@webassemblyjs/helper-wasm-bytecode": "1.11.6",
+  "@webassemblyjs/helper-wasm-section": "1.11.6",
+  "@webassemblyjs/ieee754": "1.11.6",
+  "@webassemblyjs/leb128": "1.11.6",
+  "@webassemblyjs/utf8": "1.11.6",
+  "@webassemblyjs/wasm-edit": "1.11.6",
+  "@webassemblyjs/wasm-parser": "1.11.6",
+  "@webassemblyjs/wast-printer": "1.11.6"
+}
 }
