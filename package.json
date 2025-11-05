@@ -37,5 +37,8 @@
   "strapi": {
     "uuid": "0c88409f-4de3-42b2-b9d6-29311bb86c06",
     "installId": "a759735f4c50329f3bf56f9512eb759d1556e9a5e6a543b858d0730be64ea1dc"
+  },
+  "overrides": {
+    "zod": "4.1.12"
   }
 }
