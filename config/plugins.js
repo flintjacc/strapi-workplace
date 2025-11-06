@@ -3,7 +3,7 @@
     config: {
       allowedHosts: [
         "strapi-workplace-production.up.railway.app",
-        "localhost", 
+        "localhost",
         "127.0.0.1"
       ]
     }
